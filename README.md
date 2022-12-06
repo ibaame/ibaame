@@ -4,5 +4,5 @@
 * 👀 I’m interested in web & backend
 * 🌱 I’m currently learning front-end🖌️
 * 💞️ I’m looking to collaborate on create projects
-* 📫 How to reach me bsamc7@gmail.com
+* 📫 How to reach me ibassamc@gmail.com
 * Twitter: [@ibaame](https://twitter.com/ibaame)
