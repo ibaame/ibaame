@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Bassam Mohammed</h1>
+<h1 align="center">Hi👋, I'm Bassam Mohammed</h1>
 
 <p align="left"> <a href="https://twitter.com/ibaame" target="blank"><img src="https://img.shields.io/twitter/follow/ibaame?logo=twitter&style=for-the-badge" alt="ibaame" /></a> </p>
 
